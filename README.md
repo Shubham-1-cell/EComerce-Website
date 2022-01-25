@@ -84,13 +84,13 @@ Follow the following steps to get development environment running.
 * Clone _'react-e-commerce-website.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
+  git clone https://github.com/Shubham-1-cell/EComerce-Website.git
   ```
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
+  git clone git@github.com:Shubham-1-cell/EComerce-Website.git
   ```
 
 * Install node modules
